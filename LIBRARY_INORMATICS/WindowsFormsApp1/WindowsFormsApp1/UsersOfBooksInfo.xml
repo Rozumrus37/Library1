@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <name>Leonardo</name>
+    <surname>DiCaprio</surname>
+    <debts>1</debts>
+  </User>
+  <User>
+    <name>Martin</name>
+    <surname>Scorsese</surname>
+    <debts>3</debts>
+  </User>
+  <User>
+    <name>Woody</name>
+    <surname>Allen</surname>
+    <debts>2</debts>
+  </User>
+</ArrayOfUser>

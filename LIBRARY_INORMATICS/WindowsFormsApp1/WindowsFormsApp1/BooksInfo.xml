@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <title>Anna Karenina</title>
+    <author>Tolstoy</author>
+    <genre>drama</genre>
+    <pages>650</pages>
+  </Book>
+  <Book>
+    <title>War and Peace</title>
+    <author>Tolstoy</author>
+    <genre>history</genre>
+    <pages>1000</pages>
+  </Book>
+  <Book>
+    <title>Harry Potter 1</title>
+    <author>Rowling</author>
+    <genre>fantastic</genre>
+    <pages>340</pages>
+  </Book>
+  <Book>
+    <title>The Wolf of Wall Street</title>
+    <author>Belfort</author>
+    <genre>biogrophic</genre>
+    <pages>400</pages>
+  </Book>
+  <Book>
+    <title>The Great Gatsby</title>
+    <author>Fitzgerald</author>
+    <genre>drama</genre>
+    <pages>370</pages>
+  </Book>
+  <Book>
+    <title>The fifty shades of grey</title>
+    <author>James</author>
+    <genre>erotic</genre>
+    <pages>500</pages>
+  </Book>
+  <Book>
+    <title>The Alchemist</title>
+    <author>Coehlo</author>
+    <genre>philosophy</genre>
+    <pages>256</pages>
+  </Book>
+</ArrayOfBook>
